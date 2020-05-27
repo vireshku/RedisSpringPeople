@@ -6,7 +6,7 @@ This is an example of using Jedis to connect to the Redis To Go service from bot
 
 Clone the repo with:
 
-    $ git clone https://github.com/heroku/devcenter-redis-java.git
+    $ git clone https://github.com/vireshku/RedisSpringPeople.git
 
 Start up Redis locally and set the `REDISTOGO_URL` environment variable:
 
